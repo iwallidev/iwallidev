@@ -43,8 +43,19 @@ Outside of programming, I enjoy **gaming 🎮** and exploring new technologies.
 - Build scalable and efficient applications
 - Contribute to **open-source projects**
 
-## 📈 GitHub Stats
+<table>
+<tr>
+<td>
 
 ![Wallison GitHub stats](https://github-readme-stats.vercel.app/api?username=iwallidev&show_icons=true&theme=transparent)
+
+</td>
+<td>
+
+<img src="/Gif/super-sonic.gif" width="240">
+
+</td>
+</tr>
+</table>
 
 ⭐ *Always learning, building, and improving.*
