@@ -50,5 +50,10 @@ Outside of programming, I enjoy **gaming 🎮** and exploring new technologies.
 ![Wallison GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=madstudant&show_icons=true&theme=transparent)
 
 </td>
+
+<td>
+    <img src="Gif/super-sonic.gif">
+</td>
+
 </tr>
 </table>
