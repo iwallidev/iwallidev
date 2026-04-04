@@ -47,7 +47,7 @@ Outside of programming, I enjoy **gaming 🎮** and exploring new technologies.
 <tr>
 <td>
 
-![Wallison GitHub stats](https://github-readme-stats.vercel.app/api?username=iwallidev&show_icons=true&theme=transparent)
+![Wallison GitHub stats](https://github-readme-stats.vercel.app/api?username=madstudant&show_icons=true&theme=transparent)
 
 </td>
 <td>
