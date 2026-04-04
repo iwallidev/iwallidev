@@ -52,7 +52,7 @@ Outside of programming, I enjoy **gaming 🎮** and exploring new technologies.
 </td>
 
 <td>
-    <img src="Gif/super-sonic.gif">
+    <img src="Gif/super-sonic.gif" heith="250px">
 </td>
 
 </tr>
